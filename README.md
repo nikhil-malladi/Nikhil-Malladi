@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhil-Malladi
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning DataStructures
+- 👀 I’m interested in DataStructures
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Python (Pandas, Numpy)
 - 📫 How to reach me mvsnikhil51@gmail.com
 
